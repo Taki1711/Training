@@ -11,7 +11,7 @@ public class Controller {
     public static void main(String[] args) {
         SpringApplication.run(Controller.class, args);
     }
-    private String risposta = "PORCO DIO";
+    private String risposta = "DIOCANNAKOFHIOAWHFPIAW DIO";
 
     @RequestMapping("/index.html")
     public String index() {

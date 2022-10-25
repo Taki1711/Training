@@ -1,1 +1,1 @@
-# Traininga
+# Training
